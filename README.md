@@ -59,9 +59,10 @@ Each employee type implements its own salary calculation logic and details displ
 
 ---
 
-## 🎯 Current Progress
+## 🎯 Learning Roadmap
 
-* [x] OOP Fundamentals
+* [x] Java Fundamentals
+* [x] Object-Oriented Programming (OOP)
 * [x] Employee Salary Management System
 * [ ] Collections Framework
 * [ ] Exception Handling
@@ -70,8 +71,16 @@ Each employee type implements its own salary calculation logic and details displ
 * [ ] Java 8 Features (Streams & Lambdas)
 * [ ] JDBC
 * [ ] Spring Boot
-* [ ] REST APIs
+* [ ] Spring MVC & REST APIs
+* [ ] Hibernate & Spring Data JPA
+* [ ] Spring Security
+* [ ] Testing
+* [ ] Microservices
+* [ ] Kafka
+* [ ] Docker
+* [ ] Kubernetes
 * [ ] Backend Projects
+
 
 ---
 
